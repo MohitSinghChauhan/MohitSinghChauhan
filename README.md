@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+````javascript
 let superCoolDude = {
   name: "Mohit Singh Chauhan",
   pronouns: "he/him",
@@ -10,3 +11,4 @@ let superCoolDude = {
   ],
   techStack : "MERN"
 }
+````
