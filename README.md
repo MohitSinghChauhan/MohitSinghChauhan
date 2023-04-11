@@ -10,6 +10,6 @@ let superCoolDude = {
     "English"
   ],
   techStack : "MERN",
-  email: "mohit.chauhan2580@gmail.com,
+  email: "mohit.chauhan2580@gmail.com",
 }
 ````
