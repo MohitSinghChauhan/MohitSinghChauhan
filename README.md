@@ -9,6 +9,7 @@ let superCoolDude = {
     "JavaScript",
     "English"
   ],
-  techStack : "MERN"
+  techStack : "MERN",
+  email: "mohit.chauhan2580@gmail.com,
 }
 ````
