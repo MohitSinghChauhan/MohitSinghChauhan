@@ -9,8 +9,9 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Drop your ideas&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/MohitSChauhan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=Drop a Hi!&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=Drop%20a%20Hi!&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
+  
   <a href="mailto:mohit.chauhan2580@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=If you love the traditional way&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
@@ -19,31 +20,28 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mohitsinghchauhan.mohitsinghchauhan&left_text=Thanks for visiting guys, Make yourself at home. [Visitor's Count]  "  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mohitsinghchauhan.mohitsinghchauhan&left_text=Thanks%20for%20visiting%20guys,%20Make%20yourself%20at%20home.%20[Visitor%27s%20Count]"  />
 </div>
 
 ###
 
 <h1 align="center">Hello Detective 👋</h1>
-
-###
-
 <p align="center">Debugging is like detective work—solving mysteries one line at a time.</p>
 
-###
+<br>
 
-<h3 align="left">👩‍💻  About Me</h3>
+# 👩‍💻  About Me
+## I'm Mohit Singh Chauhan from India 🇮🇳
+🔭 I’m <b>Frontend cum Backend developers</b>.<br><br>
+🥹 Braving the depths of Leetcode, grinding away with a bittersweet determination nowadays.
+<br><br>
+🎮 Open-source is the name of the game—feel free to explore, fork, and star my repositories.<br><br>
+🤣 But hey, we can't forget about the laughs! Comedy is my middle name (well, figuratively speaking).<br> &nbsp; &nbsp; Expect to find a treasure trove of puns, witty comments, and hilarious Easter eggs sprinkled throughout my code.<br><br>
+⚡When I'm not coding, you'll find me geeking out over the latest tech trends/Networking <br>&nbsp; &nbsp; or perfecting my coffee brewing skills. ☕</p>
+<br>
 
-###
 
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<p align="left">I'm Mohit Singh Chauhan from India 🇮🇳<br><br>🔭 I’m Frontend cum Backend developers.<br><br>🥹 Braving the depths of Leetcode, grinding away with a bittersweet determination nowadays.<br><br>🎮 Open-source is the name of the game—feel free to explore, fork, and star my repositories.<br><br>🤣 But hey, we can't forget about the laughs! Comedy is my middle name (well, figuratively speaking). Expect to find a treasure trove of puns, witty comments, and hilarious Easter eggs sprinkled throughout my code.<br><br>⚡When I'm not coding, you'll find me geeking out over the latest tech trends/Networking or perfecting my coffee brewing skills. ☕</p>
-
-###
-
+## 🛠 Language and tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -88,11 +86,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="40" alt="woocommerce logo"  />
 </div>
 
-###
+<br>
 
-<h3 align="left">🔥   My Stats :</h3>
+## 🔥   My Stats:
 
-###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=mohitsinghchauhan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
@@ -102,8 +99,8 @@
 
 <img src="https://raw.githubusercontent.com/mohitsinghchauhan/mohitsinghchauhan/output/snake.svg" alt="Snake animation" />
 
-###
+<br>
 
-<h4 align="left">" Keep calm, code on, and remember, The only way is up, and the future is looking brighter than ever. Let's rock the coding world, one line at a time! "</h4>
+> ## " Keep calm, code on, and remember, The only way is up, and the future is looking brighter than ever. Let's rock the coding world, one line at a time! "
 
 ###
