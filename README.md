@@ -31,14 +31,18 @@
 <br>
 
 # 👩‍💻  About Me
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+
 ## I'm Mohit Singh Chauhan from India 🇮🇳
-🔭 I’m <b>Frontend cum Backend developers</b>.<br><br>
-🥹 Braving the depths of Leetcode, grinding away with a bittersweet determination nowadays.
-<br><br>
-🎮 Open-source is the name of the game—feel free to explore, fork, and star my repositories.<br><br>
-🤣 But hey, we can't forget about the laughs! Comedy is my middle name (well, figuratively speaking).<br> &nbsp; &nbsp; Expect to find a treasure trove of puns, witty comments, and hilarious Easter eggs sprinkled throughout my code.<br><br>
-⚡When I'm not coding, you'll find me geeking out over the latest tech trends/Networking <br>&nbsp; &nbsp; or perfecting my coffee brewing skills. ☕</p>
 <br>
+
+🔭 I’m <b>Frontend cum Backend developers</b>.<br><br>
+🥹 Braving the depths of Leetcode nowadays.
+<br><br>
+🎮 Open-source is the game - feel free to explore, fork, and star my repo.<br><br>
+🤣 Expect to find a treasure trove of puns, witty comments, and<br> hilarious Easter eggs sprinkled throughout my code.<br><br>
+⚡When I'm not coding, I eat, geek out over the latest tech or Network
+<br><br><br>
 
 
 ## 🛠 Language and tools
