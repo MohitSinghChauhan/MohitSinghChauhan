@@ -1,8 +1,9 @@
+![MasterHead](https://github.blog/wp-content/uploads/2021/06/GitHub-Bug-Bounty_for-social.png?resize=1800%2C630)
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
+  
+# Hi 👋, I'm Mohit Singh Chauhan
 
-###
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/i-mohit-singh-chauhan/" target="_blank">
@@ -25,18 +26,15 @@
 
 ###
 
-<h1 align="center">Hello Detective 👋</h1>
-<p align="center">Debugging is like detective work—solving mysteries one line at a time.</p>
-
 <br>
+
 
 # 👩‍💻  About Me
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-## I'm Mohit Singh Chauhan from India 🇮🇳
-<br>
-
-🔭 I’m <b>Frontend cum Backend developers</b>.<br><br>
+🔭 I’m highly skilled in both **Frontend & Backend**.<br><br>
+📈 Currently learning **Next.js && Typescipt**<br><br>
 🥹 Braving the depths of Leetcode nowadays.
 <br><br>
 🎮 Open-source is the game - feel free to explore, fork, and star my repo.<br><br>
