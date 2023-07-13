@@ -31,7 +31,7 @@
 
 # 👩‍💻  About Me
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" margin-left="20px" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 🔭 I’m highly skilled in both **Frontend & Backend**.<br><br>
 📈 Currently learning **Next.js && Typescipt**<br><br>
